@@ -135,15 +135,14 @@ This project helps answer several important business questions:
 
 ## Key Performance Indicators (KPIs)
 
-The dashboard highlights the following key business metrics:
+The following KPIs were created using calculated fields in Tableau to summarize overall business performance.
 
-- **Total Revenue**
+KPI Name	Calculation
 
-- **Total Expenses**
-
-- **Net Profit**
-
-- **Average Client Satisfaction**
+- **Total Revenue** =	SUM([Revenue Generated])
+- **Total Expenses** = SUM([Expenses])
+- **Total Profit** = SUM([Revenue Generated]) - SUM([Expenses])
+- **Average Client Satisfaction** =	AVG([Client Satisfaction (%)])
 
 These KPIs provide a quick overview of overall business performance.
 
@@ -215,6 +214,8 @@ Based on the analysis, the following strategic recommendations can improve opera
 - Business performance analysis
 
 - KPI development and monitoring
+
+- Created Calculated Fields 
 
 - Insight generation and storytelling
 
