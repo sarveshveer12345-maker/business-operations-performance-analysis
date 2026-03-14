@@ -157,21 +157,27 @@ These KPIs provide a quick overview of overall business performance.
 
 
 - Department Revenue Contribution
+  
   The Sales department generates the highest share of total company revenue, making it the primary revenue driver for the organization. Other       departments such as Finance and Operations contribute moderate revenue, while HR and Marketing contribute relatively smaller portions.
 
 - Monthly Profit Trend
+  
   Profit levels fluctuate across different months, indicating variability in revenue generation and operational costs. Certain months show          stronger profitability, suggesting possible seasonal demand patterns or operational efficiency differences during those periods.
   
 - Branch Expense Distribution
+  
   The Hubli branch records the highest operational expenses, followed by other branches. This indicates that Hubli may have higher                  operational activities, staffing levels, or infrastructure costs compared to other locations.
 
 - Workforce Distribution by Department
+  
   The workforce is concentrated primarily in Sales department, which reflects the operational importance in driving business activities and         supporting customer operations.
 
 - Branch Profit Contribution
+  
   The Goa branch contributes the largest share of total profit, indicating strong operational efficiency and effective revenue generation           relative to its expenses.
 
 - Client Satisfaction by Department
+  
   Client satisfaction levels vary across departments, with Sales departments achieving higher customer satisfaction scores, while others show       relatively lower scores, indicating opportunities for service quality improvement.
 
 
@@ -184,21 +190,27 @@ These KPIs provide a quick overview of overall business performance.
 Based on the analysis, the following strategic recommendations can improve operational performance:
 
 - Strengthen High-Revenue Departments
+  
   Since the Sales department drives the majority of revenue, the company should continue investing in sales capabilities, including training,       technology, and customer acquisition strategies to sustain growth.
 
 - Stabilize Profit Performance Across Months
+  
   Management should analyze the factors causing monthly profit fluctuations, such as demand seasonality, marketing campaigns, or operational        inefficiencies, and develop strategies to maintain more consistent profitability.
 
 - Control Operational Costs in High-Expense Branches
+  
   The Hubli branch should undergo a detailed cost analysis to identify areas where operational expenses can be optimized without affecting          service quality.
 
 - Review Workforce Allocation
+  
   While Sales require larger teams, management should regularly review employee distribution to ensure optimal staffing levels       across         departments and avoid inefficiencies.
 
 - Replicate High-Performing Branch Practices
+  
   Since the Goa branch contributes the highest profit, management should analyze the operational practices used in this branch and apply similar    strategies in other branches to improve profitability.
 
 - Improve Client Experience Across Departments
+  
   Departments with lower client satisfaction scores should focus on improving service delivery, strengthening customer communication, and           implementing feedback-driven improvements.
 
 
