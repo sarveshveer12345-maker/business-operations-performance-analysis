@@ -40,7 +40,7 @@ The primary objectives of this project are:
 
 Dataset Preview Image:
 
-dataset-preview/business_operations_dataset_preview.png
+![Dataset Preview](business_operations_dataset_excel.png)
 
 --- 
 
@@ -60,7 +60,8 @@ dataset-preview/business_operations_dataset_preview.png
 ---
 
 ## Dashboard Preview
-dashboard/business_operations_dashboard_tableau.png
+
+![Dashboard Preview](business_operations_dashboard_tableau.png)
 
 ---
 
