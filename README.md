@@ -1,12 +1,15 @@
 # Business Operations Performance Analysis
 
+
 ## Project Overview
 
 Organizations need continuous monitoring of operational and financial performance to maintain profitability and efficiency. This project analyzes company data to evaluate department performance, profit trends, operational costs, workforce distribution, and customer satisfaction.
 
 The interactive dashboard enables users to explore business performance dynamically through filters and visual analytics.
 
+
 ---
+
 
 ## Business Context
 
@@ -14,7 +17,9 @@ In many organizations, operational data is stored across multiple departments su
 
 This dashboard consolidates key operational metrics into a single interactive view, enabling business leaders to evaluate performance across departments and branches.
 
+
 ---
+
 
 ## Business Objective
 
@@ -34,7 +39,9 @@ The primary objectives of this project are:
 
 - Identify opportunities for operational improvement and strategic decision making.
 
+
 ---
+
 
 ## Dataset Preview
 
@@ -42,7 +49,9 @@ Dataset Preview Image:
 
 ![Dataset Preview](business_operations_dataset_excel.png)
 
+
 --- 
+
 
 ## Dataset Information
 
@@ -57,13 +66,17 @@ Dataset Preview Image:
 | Employees               | Number of employees working in each department.                                                       |
 | Client Satisfaction (%) | Client satisfaction score indicating service quality across departments.                              |
 
+
 ---
+
 
 ## Dashboard Preview
 
 ![Dashboard Preview](business_operations_dashboard_tableau.png)
 
+
 ---
+
 
 ### Interactive Dashboard
 
@@ -73,7 +86,9 @@ The fully interactive dashboard is published on Tableau Public.
 
 https://public.tableau.com/app/profile/sarvesh.vernekar/viz/business_operations_dashboard/BusinessOperationsPerformanceDashboard?publish=yes
 
+
 ---
+
 
 ## Dashboard Features
 
@@ -95,7 +110,9 @@ https://public.tableau.com/app/profile/sarvesh.vernekar/viz/business_operations_
 
 - These features allow users to explore business performance from multiple perspectives.
 
+
 ---
+
 
 ## Business Problems Addressed
 
@@ -113,7 +130,9 @@ This project helps answer several important business questions:
 
 - Which departments maintain the highest client satisfaction?
 
+
 ---
+
 
 ## Key Performance Indicators (KPIs)
 
@@ -129,9 +148,12 @@ The dashboard highlights the following key business metrics:
 
 These KPIs provide a quick overview of overall business performance.
 
+
 ---
 
+
 ## Key Insights
+
 
 - The Sales department contributes the highest share of company revenue, making it the primary driver of business growth.
 
@@ -147,9 +169,12 @@ These KPIs provide a quick overview of overall business performance.
 
 - Client satisfaction levels vary across departments, indicating potential service quality improvements in certain areas.
 
+
 ---
 
+
 ## Business Recommendations
+
 
 Based on the analysis, the following strategic recommendations can improve operational performance:
 
@@ -168,7 +193,9 @@ Based on the analysis, the following strategic recommendations can improve opera
 - Balance Workforce Allocation
   Review employee distribution to ensure departments are adequately staffed for operational efficiency.
 
+
 ---
+
 
 ## Tools Used
 
@@ -176,7 +203,9 @@ Based on the analysis, the following strategic recommendations can improve opera
 
 - **Tableau** – Data visualization and dashboard development
 
+
 ---
+
 
 ## Skills Demonstrated
 
@@ -192,7 +221,9 @@ Based on the analysis, the following strategic recommendations can improve opera
 
 - Data-driven decision support
 
+
 ---
+
 
 ## Project Structure
 
@@ -202,7 +233,7 @@ business-operations-performance-analysis
 │   └── business_operations_dataset.xlsx
 │
 ├── dataset-preview
-│   └── business_operations_dataset_preview.png
+│   └── business_operations_dataset_excel.png
 │
 ├── dashboard
 │   └── business_operations_dashboard_tableau.png
@@ -212,24 +243,27 @@ business-operations-performance-analysis
 │
 └── README.md
 
+
 ---
+
 
 ## Repository Structure
 
-dataset/
-Contains the raw dataset used for analysis.
 
-dataset-preview/
-Contains preview images of the dataset structure.
+**README.md** - Documentation explaining the project, insights, and business recommendations.
 
-dashboard/
-Contains the Tableau dashboard screenshot.
 
-tableau/
-Contains the Tableau workbook file used to build the dashboard.
+**business_operations_dataset.xlsx** - Contains the raw dataset used for analysis.
 
-README.md
-Documentation explaining the project, insights, and business recommendations.
+
+**business_operations_dataset_excel.png**- Contains preview images of the dataset structure.
+
+
+**business_operations_dashboard_tableau.png** - Contains the Tableau dashboard screenshot.
+
+
+**business_operations_dashboard.twbx** - Contains the Tableau workbook file used to build the dashboard.
+
 
 ---
 
@@ -247,6 +281,6 @@ Documentation explaining the project, insights, and business recommendations.
 
 Author
 
-Sarvesh Vernekar
+**Sarvesh Vernekar**
 
 Aspiring Data Analyst passionate about data analytics, visualization, and transforming business data into meaningful insights.
