@@ -259,6 +259,7 @@ Based on the analysis, the following strategic recommendations can improve opera
 
 ## Project Structure
 
+```
 business-operations-performance-analysis
 │
 ├── dataset
@@ -274,7 +275,7 @@ business-operations-performance-analysis
 │   └── business_operations_dashboard.twbx
 │
 └── README.md
-
+```
 
 ---
 
